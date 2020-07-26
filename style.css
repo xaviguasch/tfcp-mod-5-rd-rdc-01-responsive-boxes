@@ -22,3 +22,19 @@ body {
   height: 200px;
 }
 /* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+
+.box-red {
+  width: 100%;
+}
+
+.box-green {
+  width: 50%;
+}
+
+.box-blue {
+  width: 50%;
+}
